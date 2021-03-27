@@ -17,6 +17,8 @@
 마크다운 사용법 : [안내문서](https://gist.github.com/ihoneymon/652be052a0727ad59601)<br/>
 HTML, CSS, JS 참고 사이트 : [W3Schools](https://www.w3schools.com/)<br/>
 온라인 에디터 : [Codepen](https://codepen.io/trending)<br/>
+표 만들기 : [table](https://www.tablesgenerator.com/#)\
+강사님 코드펜 : [codepen](https://codepen.io/ministori-yonsei)
 
 ## WEB/IT 기초 개념
 
@@ -37,4 +39,49 @@ HTML, CSS, JS 참고 사이트 : [W3Schools](https://www.w3schools.com/)<br/>
 ## HTML
 
 > [HTML Introduction](https://www.w3schools.com/html/html_intro.asp)<br/>
-> [HTML 기본](https://www.w3schools.com/html/html_basic.asp)
+> [HTML Elements](https://www.w3schools.com/html/html_elements.asp)
+> [HTML Attributes](https://www.w3schools.com/html/html_attributes.asp)
+
+HTML 속성(attributes)
+1) HTML Element에 추가 정보를 제공
+2) name = "value" 형태로 사용
+
+> [HTML Headings](https://www.w3schools.com/html/html_headings.asp)   
+
+제목 태그(tag)
+Heading -> h
+h1 ~ h6
+
+> [HTML Paragraphs](https://www.w3schools.com/html/html_paragraphs.asp)   
+
+단락 태그
+Paragraphs -> p
+
+수평선
+Hoizontal Rules -> hr(Empty Element) / 빈태그 : 시작 태그만 있은 태그
+
+> [HTML Links](https://www.w3schools.com/html/html_links.asp)
+
+ 하이퍼링크
+ Anchor -> a
+ href : 링크로 연결된 목적지 주소 </br>
+ 
+ 1) 외부링크 </br>
+ - 링크 주소 입력 시 http(https) 키워드를 사용
+ 
+ 2) 북마크
+ - 목적지에 id attribute를 사용해서 이름을 정해 줌
+ - href attribute에 #를 사용해서 목적지 이름을 넣어 줌
+
+>[HTML Tables](https://www.w3schools.com/html/html_tables.asp)
+
+- [Table Generator](https://www.tablesgenerator.com/html_tables)
+
+>[HTML Lists](https://www.w3schools.com/html/html_lists.asp)
+
+1) 순서있는 목록(ul)
+2) 순서없는 목록(ol)
+3) 설명 목록
+
+ul, ol 목록 사용시 중첩(nested) 형태로 사용할때 포함 관계를 주의
+- 포함하는 목록 항목에 작은 목록 전체가 포함됨
