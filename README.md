@@ -46,6 +46,13 @@ HTML 속성(attributes)
 1) HTML Element에 추가 정보를 제공
 2) name = "value" 형태로 사용
 
+웹 문서에 표시할 수 있는 콘텐츠
+1) 텍스트
+2) 이미지
+3) 멀티미디어(비디오, 오디오)
+
+### 텍스트 콘텐츠 요소(Element)
+
 > [HTML Headings](https://www.w3schools.com/html/html_headings.asp)   
 
 제목 태그(tag)
@@ -85,3 +92,4 @@ Hoizontal Rules -> hr(Empty Element) / 빈태그 : 시작 태그만 있은 태�
 
 ul, ol 목록 사용시 중첩(nested) 형태로 사용할때 포함 관계를 주의
 - 포함하는 목록 항목에 작은 목록 전체가 포함됨
+
