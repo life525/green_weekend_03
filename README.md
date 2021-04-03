@@ -70,7 +70,7 @@ Hoizontal Rules -> hr(Empty Element) / 빈태그 : 시작 태그만 있은 태�
 > [HTML Links](https://www.w3schools.com/html/html_links.asp)
 
  하이퍼링크
- Anchor -> a
+ Anchor -> a   
  href : 링크로 연결된 목적지 주소 </br>
  
  1) 외부링크 </br>
@@ -95,14 +95,14 @@ ul, ol 목록 사용시 중첩(nested) 형태로 사용할때 포함 관계를 �
 
 ### 이미지 콘텐츠 요소
 
-[HTML Images](https://www.w3schools.com/html/html_images.asp)
+> [HTML Images](https://www.w3schools.com/html/html_images.asp)
 
 1) src attribute : 가져올 이미지 파일 위치 정보
 2) alt(alternative) attiribute : 대체 텍스트
 
 ### 멀티미디어 콘텐츠 요소
 
-[HTML Video](https://www.w3schools.com/html/html5_video.asp)
+> [HTML Video](https://www.w3schools.com/html/html5_video.asp)
 
 attribute의 형태
 1) name = "value"
@@ -114,7 +114,7 @@ video 태그의 attribute
 3) muted
 4) loop
 
-[HTML YouTube Videos](https://www.w3schools.com/html/html_youtube.asp)
+> [HTML YouTube Videos](https://www.w3schools.com/html/html_youtube.asp)
 
 Youtube의 매개변수
 1) controls => youtube_url/VIDEO_ID?controls=1
@@ -124,4 +124,19 @@ Youtube의 매개변수
 
 여러 매개변수 동시 사용
 youtube_url/VIDEO_ID?controls=1&autoplay=1&mute=1&loop=1&playlist=VIDEO_ID (&=ampersand)
+
+### HTML5 Content Model
+: Sectioning Contents
+-> semantic elements
+
+> [HTML Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)  
+
+1) 특정 의미를 부여해 준 Container 요소
+2) 레이아웃을 구성할 때 각각의 영역을 구분하기 위해 사용
+
+참고 링크
+
+> [can I Use](https://caniuse.com/)   
+> [포토피아](https://www.photopea.com/)   
+> [website design 템플릿](https://freebiesbug.com/psd-freebies/website-template/)   
 
