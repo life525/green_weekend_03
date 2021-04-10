@@ -175,7 +175,7 @@ youtube_url/VIDEO_ID?controls=1&autoplay=1&mute=1&loop=1&playlist=VIDEO_ID (&=am
 [게티이미지](https://www.gettyimages.com/) < 유료임
 
 # 의미없는 텍스트(=더미텍스트)
-[로렘[로렘입섬](https://www.lipsum.com/)
+[로렘입섬](https://www.lipsum.com/)
 
 ### 폼 요소
 - 사용자 입력을 받을 수 있는 요소
@@ -208,3 +208,4 @@ youtube_url/VIDEO_ID?controls=1&autoplay=1&mute=1&loop=1&playlist=VIDEO_ID (&=am
 <button type="reset"></button>
 <button type="submit"></button>
 ```
+
