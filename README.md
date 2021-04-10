@@ -18,8 +18,8 @@
 HTML, CSS, JS 참고 사이트 : [W3Schools](https://www.w3schools.com/)<br/>
 온라인 에디터 : [Codepen](https://codepen.io/trending)<br/>
 표 만들기 : [table](https://www.tablesgenerator.com/#)\
-강사님 코드펜 : [codepen](https://codepen.io/ministori-yonsei)
-강사님 깃허브 : [](https://github.com/ministori-yonsei)
+강사님 코드펜 : [codepen](https://codepen.io/ministori-yonsei)   
+강사님 깃허브 : [강사님깃허브](https://github.com/ministori-yonsei/green_weekend_03)
 ## WEB/IT 기초 개념
 
 > 클라이언트-서버 모델
@@ -136,7 +136,31 @@ youtube_url/VIDEO_ID?controls=1&autoplay=1&mute=1&loop=1&playlist=VIDEO_ID (&=am
 
 참고 링크
 
-> [can I Use](https://caniuse.com/)   
 > [포토피아](https://www.photopea.com/)   
 > [website design 템플릿](https://freebiesbug.com/psd-freebies/website-template/)   
 
+프론트엔드 기술(HTML, CSS, JS)의 브라우저 지원 여부 체크
+
+- 프론트엔드 기술이 버전업 될 때마다 브라우저가 지원하는지 체크할 필요가 있음.\
+- HTML5/5.2, Css3, ES2015 이후 버전들의 기술은 항상 지원여부 체크가 필요함
+- 브라우저 지원 여부
+  - 상위 호환성 : 새 버전 브라우저의 지원 여부
+  - 하위 호환성 : 구 버전 브라우저의 지원 여부
+- 일반적으로 브라우저 지원은 하위 호환성 체크가 필요함
+
+- [can I Use](https://caniuse.com/)   
+
+> [HTML Block and Inline Elements](https://www.w3schools.com/html/html_blocks.asp)
+
+- Non-semantic elemant(grouping 요소)
+  - div(division)
+  - span
+
+### Block/Inline Element
+
+- block : 새 줄(줄바꿈)에서 표시
+- inline : 한 줄에 나란히 표시
+- 포함관계
+  - block : block, inline, contents(text) 모두 포함할 수 있음
+  - inline : inline, contents(text)만 포함 가능
+  - 예외 : inline 요소인 a 태그는 모두 포함 가능
