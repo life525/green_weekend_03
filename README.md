@@ -173,3 +173,187 @@ youtube_url/VIDEO_ID?controls=1&autoplay=1&mute=1&loop=1&playlist=VIDEO_ID (&=am
 [스플릿샤이어](https://www.splitshire.com/)  
 
 [게티이미지](https://www.gettyimages.com/) < 유료임
+
+132
+
+> [HTML Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)  
+
+133
+
+
+
+134
+
+1) 특정 의미를 부여해 준 Container 요소
+
+135
+
+2) 레이아웃을 구성할 때 각각의 영역을 구분하기 위해 사용
+
+136
+
+
+
+137
+
+참고 링크
+
+138
+
+
+
+139
+
+> [포토피아](https://www.photopea.com/)   
+
+140
+
+> [website design 템플릿](https://freebiesbug.com/psd-freebies/website-template/)   
+
+141
+
+
+
+142
+
+프론트엔드 기술(HTML, CSS, JS)의 브라우저 지원 여부 체크
+
+143
+
+
+
+144
+
+- 프론트엔드 기술이 버전업 될 때마다 브라우저가 지원하는지 체크할 필요가 있음.\
+
+145
+
+- HTML5/5.2, Css3, ES2015 이후 버전들의 기술은 항상 지원여부 체크가 필요함
+
+146
+
+- 브라우저 지원 여부
+
+147
+
+  - 상위 호환성 : 새 버전 브라우저의 지원 여부
+
+148
+
+  - 하위 호환성 : 구 버전 브라우저의 지원 여부
+
+149
+
+- 일반적으로 브라우저 지원은 하위 호환성 체크가 필요함
+
+150
+
+
+
+151
+
+- [can I Use](https://caniuse.com/)   
+
+152
+
+
+
+153
+
+> [HTML Block and Inline Elements](https://www.w3schools.com/html/html_blocks.asp)
+
+154
+
+
+
+155
+
+- Non-semantic elemant(grouping 요소)
+
+156
+
+  - div(division)
+
+157
+
+  - span
+
+158
+
+
+
+159
+
+### Block/Inline Element
+
+160
+
+
+
+161
+
+- block : 새 줄(줄바꿈)에서 표시
+
+162
+
+- inline : 한 줄에 나란히 표시
+
+163
+
+- 포함관계
+
+164
+
+  - block : block, inline, contents(text) 모두 포함할 수 있음
+
+165
+
+  - inline : inline, contents(text)만 포함 가능
+
+166
+
+  - 예외 : inline 요소인 a 태그는 모두 포함 가능
+
+167
+
+
+
+168
+
+> 이미지 무료 다운로드
+
+169
+
+[픽사베이](https://pixabay.com/)  
+
+170
+
+[언스플래시](https://unsplash.com/)  
+
+171
+
+[픽점보](https://picjumbo.com/)  
+
+172
+
+[아임프리](http://imcreator.com/free)  
+
+173
+
+[스플릿샤이어](https://www.splitshire.com/)  
+
+174
+
+
+
+175
+
+[게티이미지](https://www.gettyimages.com/) < 유료임
+
+176
+
+
+
+177
+
+[로렘[로렘입섬](https://www.lipsum.com/)
