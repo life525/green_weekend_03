@@ -238,3 +238,10 @@ youtube_url/VIDEO_ID?controls=1&autoplay=1&mute=1&loop=1&playlist=VIDEO_ID (&=am
 
 - left, right 속성값으로 가로배치
 - 부모요소를 기준으로 왼쪽 배차, 오른쪽 배치
+- right를 값을 사용하면 박스 순서가 반대로 배치
+
+### 반응형 웹
+
+> OSMU(One Source Multi Use) - One Source => HTML
+> 적응형 웹(Adaptive Web) - OSMU가 적용되지 않음
+
