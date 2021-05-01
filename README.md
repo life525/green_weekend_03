@@ -20,6 +20,7 @@ HTML, CSS, JS 참고 사이트 : [W3Schools](https://www.w3schools.com/)<br/>
 표 만들기 : [table](https://www.tablesgenerator.com/#)\
 강사님 코드펜 : [codepen](https://codepen.io/ministori-yonsei)   
 강사님 깃허브 : [강사님깃허브](https://github.com/ministori-yonsei/green_weekend_03)
+제이쿼리 공식사이트 : [제이쿼리](https://jquery.com/)
 ## WEB/IT 기초 개념
 
 > 클라이언트-서버 모델
